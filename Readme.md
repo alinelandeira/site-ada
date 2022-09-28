@@ -1,0 +1,1 @@
+Site desenvolvido contando a história da primeira programadora da história, Ada Lovelace.
